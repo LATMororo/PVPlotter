@@ -1,0 +1,15 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Packaging / Egg-info
+*.egg-info/
+.egg-info/
+dist/
+build/
+*.egg
+
+# Byte-compiled / optimized / DLL files
+pvplotter/**/__pycache__/
+pvplotter/**/*.py[cod]
